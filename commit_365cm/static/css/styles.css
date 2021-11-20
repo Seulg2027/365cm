@@ -1509,3 +1509,7 @@ a:hover {
 	display: flex;
   	justify-content: center;
 }
+
+#faq{
+	color: #ff7f00;
+}
